@@ -1,4 +1,4 @@
-package it.introini.hnclient
+import it.introini.hnclient.create
 
 fun main(args: Array<String>) {
     val hnClient = create()
